@@ -89,7 +89,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/catkin_ws/src/drone_scene/profi2022_bachelor_scene/models/scene/model_line_vis.dae</uri>
+              <uri>/catkin_ws/src/drone_scene/models/scene/model_line_vis.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -105,7 +105,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/catkin_ws/src/drone_scene/profi2022_bachelor_scene/models/scene/model_line.dae</uri>
+              <uri>/catkin_ws/src/drone_scene/models/scene/model_line.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
